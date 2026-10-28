@@ -1,0 +1,58 @@
+{
+ "settings": {
+  "wa": "221764812205",
+  "wave": "76 481 22 05",
+  "om": "",
+  "owner": "MAD'INVESTMENT"
+ },
+ "products": [
+  {
+   "id": "p1",
+   "title": "Monter son dossier de financement au Sénégal",
+   "cat": "Financement",
+   "desc": "Le guide pas à pas pour préparer, structurer et déposer un dossier solide : pièces à réunir, plan d'affaires simple, erreurs à éviter.",
+   "pages": 42,
+   "price": 4500,
+   "old": 7500,
+   "color": "#0B5D4B",
+   "img": "",
+   "pack": false
+  },
+  {
+   "id": "p2",
+   "title": "Business plan simple en 7 étapes",
+   "cat": "Entrepreneuriat",
+   "desc": "Un modèle clair à remplir pour présenter ton projet à une banque, un investisseur ou une structure d'appui.",
+   "pages": 28,
+   "price": 2500,
+   "old": 4000,
+   "color": "#1D3F7A",
+   "img": "",
+   "pack": false
+  },
+  {
+   "id": "p3",
+   "title": "Calculer ses coûts et fixer ses prix",
+   "cat": "Gestion",
+   "desc": "Savoir combien coûte vraiment ton produit, fixer un prix qui te laisse une marge et suivre ta trésorerie.",
+   "pages": 22,
+   "price": 2000,
+   "old": 3500,
+   "color": "#7A4B0B",
+   "img": "",
+   "pack": false
+  },
+  {
+   "id": "p4",
+   "title": "Pack Porteur de projet",
+   "cat": "Pack",
+   "desc": "Le guide de financement, le business plan et le guide des coûts réunis en un seul achat.",
+   "pages": 92,
+   "price": 7000,
+   "old": 14000,
+   "color": "#5B2A86",
+   "img": "",
+   "pack": true
+  }
+ ]
+}
